@@ -24,7 +24,7 @@ This is a simple Java-based application for maintaining a personal log. Users ca
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/DragonLunarCodes/log-app.git
+    git clone https://github.com/DragonLunarCodes/Project_Raziel.git
     ```
     or download the ZIP file and extract it.
 
