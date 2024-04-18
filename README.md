@@ -17,7 +17,7 @@ This is a simple Java-based application for maintaining a personal log. Users ca
 ## Prerequisites
 
 - Java Development Kit (JDK) installed
-- Text editor or IDE (e.g., Visual Studio Code, IntelliJ IDEA)
+- Text editor or IDE (e.g., Visual Studio Code)
 - Terminal or command prompt
 
 ## Getting Started
